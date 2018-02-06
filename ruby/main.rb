@@ -1,6 +1,3 @@
-# Fizz Buzz in Ruby
-
-```
 #!/usr/bin/ruby
 
 # main.rb | Fizz Buzz | Roman S. Collins | Tue, Feb 06, 2018
@@ -40,4 +37,3 @@ end
 
 main = Main.new
 main.fizzbuzz
-```
