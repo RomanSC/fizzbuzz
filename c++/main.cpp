@@ -31,6 +31,7 @@ int main() {
 
         if (x == true) {
             cout << i << endl;
+            continue;
         }
 
     }
